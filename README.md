@@ -4,6 +4,9 @@ Portfolio of cybersecurity labs, scripts, and exercises from TryHackMe, CTFs, an
 ## 🧪 Hands‑On Learning
 This portfolio is a place to store my cybersecurity practice and labs as I grow my skills.
 
+## Screenshots Completed Rooms
+Room Progress Cyber Secuirty Complete.png
+
 ### TryHackMe Labs
 - **TryHackMe – Cyber Security 101**  
   Completion of foundational cybersecurity path covering networking basics, Linux, Windows security, and core concepts. :contentReference[oaicite:2]{index=2}
