@@ -5,7 +5,7 @@ Portfolio of cybersecurity labs, scripts, and exercises from TryHackMe, CTFs, an
 This portfolio is a place to store my cybersecurity practice and labs as I grow my skills.
 
 ## Screenshots Completed Rooms
-Room Progress Cyber Secuirty Complete.png
+[Cyber Security Lab Completion](github.com/simonececil-dot/SOC-portfolio/raw/0c8ef53fee6ed5fee4389c7827eb9716d6d0f671/Room%20Progress%20Cyber%20Secuirty%20Complete.png)
 
 ### TryHackMe Labs
 - **TryHackMe – Cyber Security 101**  
