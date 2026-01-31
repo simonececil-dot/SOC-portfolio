@@ -1,6 +1,9 @@
 # SOC-portfolio
 Portfolio of cybersecurity labs, scripts, and exercises from TryHackMe, CTFs, and self-study.
 
+![Room Progress Cyber Security Complete](https://raw.githubusercontent.com/simonececil-dot/SOC-portfolio/0fc7c2d65b00972c2a20cdf1231b473806e3ae54/Room%20Progress%20Cyber%20Secuirty%20Complete.png)
+
+
 ## 🧪 Hands‑On Learning
 This portfolio is a place to store my cybersecurity practice and labs as I grow my skills.
 
